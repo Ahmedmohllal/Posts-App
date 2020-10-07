@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PostsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="comment_fragment">Hello comment fragment</string>
+    <string name="post_fragment">Hello post fragment</string>
+    <string name="photo_fragment">Hello photo fragment</string>
+</resources>
