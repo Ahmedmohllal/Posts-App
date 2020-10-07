@@ -6,9 +6,10 @@
 - list of Posts For mutli users
 - list of their comments and photos
 # Libraries
-- retrofit
-- rxjava
+- Retrofit
+- RxJava
 - Room Database
 - Callback
-- architecture pattern MVVM 
+- Architecture pattern MVVM 
+- Fragments
 - Glide
